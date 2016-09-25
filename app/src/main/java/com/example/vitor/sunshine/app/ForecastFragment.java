@@ -32,9 +32,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-/**
- * Created by vitor on 21/09/16.
- */
 
 public class ForecastFragment extends Fragment {
     private ArrayAdapter<String> mForecastAdapter;
@@ -95,7 +92,6 @@ public class ForecastFragment extends Fragment {
                 startActivity(intent);
             }
         });
-
         return rootView;
     }
 
