@@ -1,2 +1,2 @@
 # Udacity-Sunshine
-Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals.](https://www.udacity.com/course/ud853)
+Sunshine is the companion Android app for the Udacity course [Developing Android Apps: Android Fundamentals](https://www.udacity.com/course/ud853) and [Advanced Android App Development.](https://www.udacity.com/course/ud855)
